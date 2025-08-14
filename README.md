@@ -6,10 +6,15 @@ It uses data preprocessing, feature scaling, and classification algorithms to de
 ✨ Features
 
 ✅ Data Cleaning & Preprocessing 🧹
+
 ✅ Exploratory Data Analysis (EDA) 📊
+
 ✅ Feature Scaling for better model performance 📏
+
 ✅ Multiple ML Models tested (Logistic Regression, Random Forest, SVM) 🤖
+
 ✅ Evaluation Metrics: Accuracy, Precision, Recall, F1-score 📈
+
 ✅ Visualizations for better insights 📉
 
 🔍 How It Works
@@ -24,9 +29,13 @@ It uses data preprocessing, feature scaling, and classification algorithms to de
 🧰 Tech Stack
 
 🐍 Python 3.10+
+
 📦 pandas, numpy, matplotlib, seaborn
+
 📊 scikit-learn (Logistic Regression, Random Forest, SVM)
+
 💻 Jupyter Notebook
+
 ☁️ Ready for deployment with Flask/FastAPI (Optional)
 
 📂 Project Structure
@@ -41,8 +50,11 @@ Diabetes_Prediction_Model/
 🚀 Next Improvements
 
 🔍 Add hyperparameter tuning for better accuracy
+
 🧠 Try advanced models (XGBoost, LightGBM)
+
 🌐 Deploy as a web app using Flask/FastAPI + Streamlit
+
 📈 Add SHAP values for model explainability
 
 👨‍💻 Contributions Welcome!
