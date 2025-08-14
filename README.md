@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction Model
+#🩺 Diabetes Prediction Model
 
 This is a Machine Learning-based Python application that predicts whether a person is likely to have diabetes based on medical data 🧠📊.
 It uses data preprocessing, feature scaling, and classification algorithms to deliver quick and accurate predictions ⚡.
